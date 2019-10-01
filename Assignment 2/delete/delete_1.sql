@@ -1,0 +1,1 @@
+delete from address where person = 12 and address.primary = 1
