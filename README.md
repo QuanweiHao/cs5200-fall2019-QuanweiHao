@@ -1,2 +1,2 @@
 # cs5200-fall2019-QuanweiHao
-For class cs5200-fall2019
+CS5200 - Introduction to Relational Databases
