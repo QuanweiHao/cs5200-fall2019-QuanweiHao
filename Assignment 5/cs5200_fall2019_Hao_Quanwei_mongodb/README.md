@@ -1,2 +1,2 @@
-## MongoDB Assignment
-# Frist of all, do 'npm install mongoose'
+# MongoDB Assignment
+##Frist of all, do 'npm install mongoose'
