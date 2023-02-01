@@ -9,6 +9,6 @@
   "author": "Quanwei Hao",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.7.10"
+    "mongoose": "^5.13.15"
   }
 }
